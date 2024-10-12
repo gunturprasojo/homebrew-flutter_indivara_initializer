@@ -5,7 +5,7 @@ class FlutterIndivaraInitializer < Formula
   desc ""
   homepage ""
   url "https://github.com/gunturprasojo/flutter_indivara_initializer/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "64e55518aeabe45585af73cab60dc6b09b2d22072e3893b9cef7aaa15f929dcf"
+  sha256 "bef1ffc9a38df9d531413f8d58548e36c4fa560256380ec52352fabb086b9aed"
   license ""
 
   # depends_on "cmake" => :build
