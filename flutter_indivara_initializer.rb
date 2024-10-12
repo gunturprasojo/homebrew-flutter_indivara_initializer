@@ -4,7 +4,7 @@
 class FlutterIndivaraInitializer < Formula
   desc ""
   homepage ""
-  url "https://github.com/gunturprasojo/flutter_indivara_initializer/archive/refs/tags/v1.0.1.tar.gz"
+  url "https://github.com/gunturprasojo/flutter_indivara_initializer/archive/refs/tags/v1.0.2.tar.gz"
   sha256 "bef1ffc9a38df9d531413f8d58548e36c4fa560256380ec52352fabb086b9aed"
   license ""
 
@@ -12,6 +12,7 @@ class FlutterIndivaraInitializer < Formula
 
   def install
     bin.install "flutter_indivara_initializer"
+    bin.install "flutter_indivara_presentation"
   end
 
 end
