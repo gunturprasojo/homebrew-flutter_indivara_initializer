@@ -2,10 +2,10 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class FlutterIndivaraInitializer < Formula
-  desc ""
-  homepage ""
-  url "https://github.com/gunturprasojo/flutter_indivara_initializer/archive/refs/tags/v1.0.5.tar.gz"
-  sha256 "88c1052c0f38afa6892386f14ad56ecedfd5072aad0b8642b506768f1711340d"
+  desc "Flutter Generator for Indivara Project"
+  homepage "www.indivara.com"
+  url "https://github.com/gunturprasojo/flutter_indivara_initializer/archive/refs/tags/v1.0.6.tar.gz"
+  sha256 "556ff3180d321a41784967f7bd5190c4a271013b13309d7c9dccc80370b8350f"
   license ""
 
   # depends_on "cmake" => :build
