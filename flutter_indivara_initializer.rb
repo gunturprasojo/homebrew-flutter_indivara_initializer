@@ -4,7 +4,7 @@
 class FlutterIndivaraInitializer < Formula
   desc "Flutter Generator for Indivara Project"
   homepage "www.indivara.com"
-  url "https://github.com/gunturprasojo/flutter_indivara_initializer/archive/refs/tags/v1.0.10.tar.gz"
+  url "https://github.com/gunturprasojo/flutter_indivara_initializer/archive/refs/tags/v1.1.0.tar.gz"
   sha256 "9392388ae124d90e46b5f1110baa19f10f2676558b2df51de9c7b5a5be688ada"
   license ""
 
