@@ -4,8 +4,8 @@
 class FlutterIndivaraInitializer < Formula
   desc "Flutter Generator for Indivara Project"
   homepage "www.indivara.com"
-  url "https://github.com/gunturprasojo/flutter_indivara_initializer/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "8d332ac15af521e422c15846cf7ebaa7d8031e40c70a493909f19725ae1b4ac3"
+  url "https://github.com/gunturprasojo/flutter_indivara_initializer/archive/refs/tags/v1.2.1.tar.gz"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   license ""
 
   # depends_on "cmake" => :build
